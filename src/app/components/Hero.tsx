@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <section className="py-12">
+    <section className="container my-16">
       <h1 className="text-4xl font-fold text-center">Find your next <br /> dream job</h1>
       {/* <p className="text-center text-gray-600 mt">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolorem facilis vel? Est ullam corporis quasi animi fuga perspiciatis odio veniam eveniet culpa, consectetur ut consequatur libero. Natus, deleniti explicabo!
